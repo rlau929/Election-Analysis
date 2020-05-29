@@ -13,4 +13,5 @@
 
 ## Summary
 The results showed that there is a total of 369,711 votes
--The winner is Diana DeGette with 272,892 total vote count at 73.8% winning percentage.
+1) The winner is Diana DeGette with 272,892 total vote count at 73.8% winning percentage.
+2) The largest county turnout is Denver
